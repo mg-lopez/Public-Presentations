@@ -1,2 +1,2 @@
-# CTF-Cafes
-Presentation slides for previous presentions delivered as part of warwick - google developer student club & recent case study presentations.
+# CTF-Cafes & Case Studies
+Portfolio of presentations delivered as part of Warwick - Google's Developer Student Club & recent case study presentations.
